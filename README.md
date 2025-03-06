@@ -9,7 +9,7 @@
 ## 🛠️ Tecnologías y Herramientas
 Actualmente trabajo con:
 - IntelliJ
-- Visial Stuio Code
+- Visual Studio Code
 
 ## 📫 Cómo Contactarme
 - 📩 Email: iciar.cabezuelo@gmail.com
